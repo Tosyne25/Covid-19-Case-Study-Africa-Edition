@@ -28,7 +28,7 @@ The following questions were asked:
 #### Step 2: Prepare
 The dataset is located on Our World in Data. The dataset used for this analysis upon the initial uncleaned form, comes in a csv format with thousands of rows. There is no issue with bias or credibility of this data as it was gotten directly from the source. For the licensing, the dataset was made public directly by Our World in Data, which therefore means that it is open to the public to use for the analysis. For this dataset, I ensured to check the dataset for accuracy, completeness, consistency, and trustworthiness of the data throughout its lifecycle and by doing this, it shows that the dataset has consistent columns, and each column has the essential type of data required.
 
-#### Step 3: Process
+#### Step 3: Process/Analyze
 In this step, the dataset was prepared for analysis and ensured that data had been compiled, filtered, sorted, and cleaned appropriately.
 
 Tools used for the analysis:
@@ -41,18 +41,15 @@ Cleaning Activities:
 
 The dataset used was downloaded from Our World in Data platform.
 The different datasets were imported into the Microsoft SQL Server Management Studio.
-The data was cleaned in the Microsoft SQL Server Management Studio by filtering for the particular location that to be analyzed.
+The data was cleaned in the Microsoft SQL Server Management Studio by filtering for the particular location to be analyzed.
 A sense check was performed to ensure that the dataset had all the necessary information required for the analysis.
 
-#### Step 4: Analyze
-Below are the inferences I could make from the data:
 
-##### Total Deaths in Africa: 
+#### Step 4: Report
 
 
-#### Step 5: Report
-
-#### Conclusion:
+#### [Covid-19 Dashboard.pdf](https://github.com/Tosyne25/Covid-19-Case-Study-Africa-Edition/files/12836824/Covid-19.Dashboard.pdf)
+onclusion:
 
 
 #### Recommendations:
