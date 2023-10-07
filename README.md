@@ -46,9 +46,9 @@ A sense check was performed to ensure that the dataset had all the necessary inf
 
 
 #### Step 4: Report
+[Covid-19 Dashboard.pdf](https://github.com/Tosyne25/Covid-19-Case-Study-Africa-Edition/files/12836835/Covid-19.Dashboard.pdf)
 
 
-#### [Covid-19 Dashboard.pdf](https://github.com/Tosyne25/Covid-19-Case-Study-Africa-Edition/files/12836824/Covid-19.Dashboard.pdf)
 onclusion:
 
 
