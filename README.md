@@ -39,17 +39,20 @@ Tools used for the analysis:
 
 Cleaning Activities:
 
-The dataset used was downloaded from Our World in Data platform.
-The different datasets were imported into the Microsoft SQL Server Management Studio.
-The data was cleaned in the Microsoft SQL Server Management Studio by filtering for the particular location to be analyzed.
-A sense check was performed to ensure that the dataset had all the necessary information required for the analysis.
+* The dataset used was downloaded from Our World in Data platform.
+* The different datasets were imported into the Microsoft SQL Server Management Studio.
+* The data was cleaned in the Microsoft SQL Server Management Studio by filtering for the particular location to be analyzed.
+* A sense check was performed to ensure that the dataset had all the necessary information required for the analysis.
+* The datasets were then imported to Power BI for visualization.
 
 
 #### Step 4: Report
 [Covid-19 Dashboard.pdf](https://github.com/Tosyne25/Covid-19-Case-Study-Africa-Edition/files/12836835/Covid-19.Dashboard.pdf)
 
 
-onclusion:
+Conclusion:
+* Country with the highest ICU Patients for South Africa (97.69%) was higher than Algeria (2.31%).
+
 
 
 #### Recommendations:
