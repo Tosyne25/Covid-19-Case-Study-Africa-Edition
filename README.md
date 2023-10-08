@@ -8,7 +8,7 @@ COVID-19 most often causes respiratory symptoms that can feel much like a cold, 
 The COVID-19 pandemic was confirmed to have spread to Africa on 14 February 2020, with the first confirmed case announced in Egypt.[2,3] The first confirmed case in sub-Saharan Africa was announced in Nigeria at the end of February 2020[4]. Within three months, the virus had spread throughout the continent, as Lesotho, the last African sovereign state to have remained free of the virus, reported a case on 13 May 2020.[5,6] By 26 May, it appeared that most African countries were experiencing community transmission, although testing capacity was limited.[7] 
 
 ### Problem Statement: 
-This dataset encompasses a variety of information collected from global sources on the subject of Covid-19. The objective of this study is to identify countries that successfully handled the pandemic and those that did not. This analysis helps us identify countries that may be deficient in the necessary resources to combat the virus.
+This dataset encompasses a variety of information collected from global sources on the subject of Covid-19. The objective of this study is to identify African countries that successfully handled the pandemic and those that did not, as well as the infection and mortality rate. This analysis will help us identify countries that may be deficient in the necessary resources to combat the virus.
 
 #### Step 1: Question Statement
 The following questions were asked:
@@ -32,7 +32,7 @@ The following questions were asked:
 * People Vaccinated versus Fatality Percentage
 
 #### Step 2: Prepare
-The dataset is hosted on Our World in Data. In its initial, unprocessed state, it is available in CSV format with numerous rows. There are no concerns about the data's bias or credibility since it was obtained directly from the source. Regarding licensing, Our World in Data has made this dataset publicly accessible, allowing anyone to utilize it for analysis. I conducted thorough assessments of the dataset's accuracy, completeness, consistency, and trustworthiness at every stage of its existence. These evaluations demonstrate that the dataset maintains uniform column structures, with each column containing the necessary data types.
+The dataset is hosted on Our World in Data website. In its initial, unprocessed state, it is available in CSV format with numerous rows. There are no concerns about the data's bias or credibility since it was obtained directly from the source. Regarding licensing, Our World in Data has made this dataset publicly accessible, allowing anyone to utilize it for analysis. I conducted thorough assessments of the dataset's accuracy, completeness, consistency, and trustworthiness at every stage of its existence. These evaluations demonstrate that the dataset maintains uniform column structures, with each column containing the necessary data types.
 
 #### Step 3: Process/Analyze
 The dataset was meticulously processed to guarantee that data compilation, filtering, sorting, and cleaning were carried out appropriately for analysis.
@@ -56,7 +56,7 @@ Cleaning:
 [Covid-19 Dashboard.pdf](https://github.com/Tosyne25/Covid-19-Case-Study-Africa-Edition/files/12836835/Covid-19.Dashboard.pdf)
 
 
-Conclusion:
+#### Conclusion:
 * Total deaths in Africa was 257,984
 * Country with the highest ICU Patients for South Africa (97.69%) was higher than Algeria (2.31%).
 * South Africa had the highest covid 19 cases in Africa with over 4,043,242 cases which accounted for  63.96% of total covid-19 cases.
@@ -65,12 +65,13 @@ Conclusion:
 * South Africa had the highest mortality rate by location with 102,371 deaths and Saint Helema had 1 death.
 * Botswana had the highest new cases by location with 41,576 new cases.
 * South Africa is the country with the gighest booster shots
-* 
-
-
-
+* South Africa and Tunisia had the highest number of people that died from Covid-19.
+* At 120283026, Ethiopia had the highest Population and was 1,685.87% higher than Libya, which had the lowest Population at 6735277.
 
 #### Recommendations:
+* It's crucial to ensure that people in Africa receive adequate education regarding the advantages of getting vaccinated against Covid-19. Africa has a high rate of illiteracy, which poses a challenge in comprehending the full scope of the Covid-19 pandemic for many individuals on the continent.
+* Increased mobilization of vaccines and healthcare personnel by the World Health Organization (WHO) is essential across various African nations to ensure equitable and unbiased administration of vaccines to the African population.
+* African nations should strive to possess advanced medical equipment and machinery to effectively manage the Covid-19 pandemic and any other pandemic that may arise in the nearest future.
 
 #### References:
 1.  https://www.cdc.gov/coronavirus/2019-ncov/your-health/about-covid-19.html
