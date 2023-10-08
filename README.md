@@ -57,8 +57,15 @@ Cleaning:
 
 
 Conclusion:
+* Total deaths in Africa was 257,984
 * Country with the highest ICU Patients for South Africa (97.69%) was higher than Algeria (2.31%).
-* South Africa accounted for 63.96% of total covid-19 cases.
+* South Africa had the highest covid 19 cases in Africa with over 4,043,242 cases which accounted for  63.96% of total covid-19 cases.
+* North America had the highest total death by continent with over 1,082,224 deaths while Africa had 102,464 deaths.
+* About 56 African Countries were affected by the Covid-19 and 42 countries had booster shots delivered to them.
+* South Africa had the highest mortality rate by location with 102,371 deaths and Saint Helema had 1 death.
+* Botswana had the highest new cases by location with 41,576 new cases.
+* South Africa is the country with the gighest booster shots
+* 
 
 
 
