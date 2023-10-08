@@ -1,14 +1,14 @@
 # COVID-19 Africa Case Study
 
 ## Brief Introduction:
-COVID-19 (coronavirus disease 2019) is a disease caused by a virus named SARS-CoV-2. It can be very contagious and spreads quickly. Over one million people have died from COVID-19 in the United States and 257,984 in Africa.
+COVID-19 (coronavirus disease 2019) is a disease caused by a virus named SARS-CoV-2. It can be very contagious and spreads quickly. Over one million people have died from COVID-19 in the United States and 257,984 in Africa.[1]
 
-COVID-19 most often causes respiratory symptoms that can feel much like a cold, the flu, or pneumonia. COVID-19 may attack more than your lungs and respiratory system. Other parts of your body may also be affected by the disease. Most people with COVID-19 have mild symptoms, but some people become severely ill.
+COVID-19 most often causes respiratory symptoms that can feel much like a cold, the flu, or pneumonia. COVID-19 may attack more than your lungs and respiratory system. Other parts of your body may also be affected by the disease. Most people with COVID-19 have mild symptoms, but some people become severely ill.[1]
 
-The COVID-19 pandemic was confirmed to have spread to Africa on 14 February 2020, with the first confirmed case announced in Egypt. The first confirmed case in sub-Saharan Africa was announced in Nigeria at the end of February 2020. Within three months, the virus had spread throughout the continent, as Lesotho, the last African sovereign state to have remained free of the virus, reported a case on 13 May 2020. By 26 May, it appeared that most African countries were experiencing community transmission, although testing capacity was limited. Most of the identified imported cases arrived from Europe and the United States rather than from China where the virus originated.
+The COVID-19 pandemic was confirmed to have spread to Africa on 14 February 2020, with the first confirmed case announced in Egypt.[2,3] The first confirmed case in sub-Saharan Africa was announced in Nigeria at the end of February 2020[4]. Within three months, the virus had spread throughout the continent, as Lesotho, the last African sovereign state to have remained free of the virus, reported a case on 13 May 2020.[5,6] By 26 May, it appeared that most African countries were experiencing community transmission, although testing capacity was limited.[7] 
 
 ### Problem Statement: 
-The dataset consists of diverse data gathered from worldwide sources regarding Covid-19. This research seeks to pinpoint nations that effectively managed the pandemic and those that didn't. By doing so, we can pinpoint countries lacking essential resources to combat the virus.
+This dataset encompasses a variety of information collected from global sources on the subject of Covid-19. The objective of this study is to identify countries that successfully handled the pandemic and those that did not. This analysis helps us identify countries that may be deficient in the necessary resources to combat the virus.
 
 #### Step 1: Question Statement
 The following questions were asked:
@@ -32,10 +32,10 @@ The following questions were asked:
 * People Vaccinated versus Fatality Percentage
 
 #### Step 2: Prepare
-The dataset is located on Our World in Data. The dataset used for this analysis upon the initial uncleaned form, comes in a csv format with thousands of rows. There is no issue with bias or credibility of this data as it was gotten directly from the source. For the licensing, the dataset was made public directly by Our World in Data, which therefore means that it is open to the public to use for the analysis. For this dataset, I ensured to check the dataset for accuracy, completeness, consistency, and trustworthiness of the data throughout its lifecycle and by doing this, it shows that the dataset has consistent columns, and each column has the essential type of data required.
+The dataset is hosted on Our World in Data. In its initial, unprocessed state, it is available in CSV format with numerous rows. There are no concerns about the data's bias or credibility since it was obtained directly from the source. Regarding licensing, Our World in Data has made this dataset publicly accessible, allowing anyone to utilize it for analysis. I conducted thorough assessments of the dataset's accuracy, completeness, consistency, and trustworthiness at every stage of its existence. These evaluations demonstrate that the dataset maintains uniform column structures, with each column containing the necessary data types.
 
 #### Step 3: Process/Analyze
-In this step, the dataset was prepared for analysis and ensured that data had been compiled, filtered, sorted, and cleaned appropriately.
+The dataset was meticulously processed to guarantee that data compilation, filtering, sorting, and cleaning were carried out appropriately for analysis.
 
 Tools used for the analysis:
 
@@ -43,13 +43,13 @@ Tools used for the analysis:
 * Microsoft Excel
 * Microsoft Power BI
 
-Cleaning Activities:
+Cleaning:
 
-* The dataset used was downloaded from Our World in Data platform.
-* The different datasets were imported into the Microsoft SQL Server Management Studio.
-* The data was cleaned in the Microsoft SQL Server Management Studio by filtering for the particular location to be analyzed.
-* A sense check was performed to ensure that the dataset had all the necessary information required for the analysis.
-* The datasets were then imported to Power BI for visualization.
+* The dataset utilized was retrieved from the Our World in Data platform.
+* Various datasets were brought into the Microsoft SQL Server Management Studio.
+* Within the Microsoft SQL Server Management Studio, data underwent a cleaning process through location-based filtering for the specific analysis.
+* A validation check was conducted to confirm that the dataset contained all the essential information needed for the analysis.
+* Subsequently, the datasets were imported into Power BI for visualization purposes.
 
 
 #### Step 4: Report
@@ -58,6 +58,8 @@ Cleaning Activities:
 
 Conclusion:
 * Country with the highest ICU Patients for South Africa (97.69%) was higher than Algeria (2.31%).
+* South Africa accounted for 63.96% of total covid-19 cases.
+
 
 
 
@@ -71,7 +73,6 @@ Conclusion:
 5.  "Remote Lesotho becomes last country in Africa to record COVID-19 case". Reuters. 13 May 2020. Archived from the original on 14 May 2020. Retrieved 13 May 2020.
 6.  "Coronavirus live updates: Lesotho becomes last African nation to report a coronavirus case". Los Angeles Times. Archived from the original on 13 May 2020. Retrieved 13 May 2020.
 7.  Akinwotu E (26 May 2020). "Experts sound alarm over lack of Covid-19 test kits in Africa". The Guardian. Archived from the original on 29 May 2020. Retrieved 29 May 2020.
-8.  Maclean R (17 March 2020). "Africa Braces for Coronavirus, but Slowly". The New York Times. Archived from the original on 25 March 2020. Retrieved 25 March 2020.
 
 
 
