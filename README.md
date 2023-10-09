@@ -1,4 +1,4 @@
-# COVID-19 Africa Case Study
+# COVID-19 Africa Case Study (2022-2022)
 
 ## Brief Introduction:
 COVID-19 (coronavirus disease 2019) is a disease caused by a virus named SARS-CoV-2. It can be very contagious and spreads quickly. Over one million people have died from COVID-19 in the United States and 257,984 in Africa.[1]
